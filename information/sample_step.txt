@@ -1,0 +1,48 @@
+Key: id
+Value: t0QMlhqos11e7mVS8nggF
+Key: host
+Value: 
+Key: href
+Value: 
+Key: mask
+Value: False
+Key: type
+Value: launchApp
+Key: model
+Value: guide
+Key: tabId
+Value: 1146792955
+Key: title
+Value: 
+Key: value
+Value: 
+Key: width
+Value: 275
+Key: trigger
+Value: True
+Key: position
+Value: bottom
+Key: richLink
+Value: {"type":"doc","content":[{"type":"paragraph","content":[{"type":"text","text":"https://hk.trip.com/"}]}]}
+Key: hostTitle
+Value: 
+Key: orderList
+Value: ['title', 'description', 'media']
+Key: attributes
+Value: {'data': {}}
+Key: buttonText
+Value: 下一步
+Key: buttonColor
+Value: rgba(80, 95, 121, 1)
+Key: buttonWidth
+Value: 72
+Key: buttonRadius
+Value: 8
+Key: buttonPosition
+Value: right
+Key: isAloneSettings
+Value: False
+Key: automationExecType
+Value: force
+Key: isShowGuideModelMedia
+Value: False

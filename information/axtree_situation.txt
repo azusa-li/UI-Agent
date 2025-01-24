@@ -1,0 +1,4567 @@
+File: Kyle.json
+Number of steps: 5
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+**********
+File: 鏌掑弫ljyyy.json
+Number of steps: 17
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+**********
+File: Im.json
+Number of steps: 50
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+**********
+File: 鎳掓噿澶撮《鑺辫姳.json
+Number of steps: 50
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+-----
+**********
+File: Cyberpunk.json
+Number of steps: 50
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+**********
+File: dcynsd.json
+Number of steps: 50
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 17 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+Step 25 has axTree!
+Step 28 has axTree!
+Step 30 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+Step 25 has axTree!
+Step 26 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+Step 25 has axTree!
+Step 26 has axTree!
+Step 27 has axTree!
+Step 28 has axTree!
+Step 29 has axTree!
+Step 30 has axTree!
+Step 31 has axTree!
+Step 32 has axTree!
+Step 33 has axTree!
+Step 34 has axTree!
+Step 35 has axTree!
+Step 36 has axTree!
+Step 37 has axTree!
+Step 38 has axTree!
+Step 39 has axTree!
+Step 40 has axTree!
+Step 41 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+Step 25 has axTree!
+Step 26 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+**********
+File: Siing.json
+Number of steps: 48
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+Step 25 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+Step 25 has axTree!
+Step 26 has axTree!
+Step 27 has axTree!
+Step 28 has axTree!
+Step 29 has axTree!
+Step 30 has axTree!
+Step 31 has axTree!
+Step 32 has axTree!
+Step 33 has axTree!
+Step 34 has axTree!
+Step 35 has axTree!
+Step 36 has axTree!
+Step 37 has axTree!
+Step 38 has axTree!
+Step 39 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+Step 24 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+Step 20 has axTree!
+Step 21 has axTree!
+Step 22 has axTree!
+Step 23 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 10 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+-----
+Step 3 has axTree!
+Step 5 has axTree!
+-----
+Step 3 has axTree!
+Step 5 has axTree!
+-----
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 7 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 7 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 3 has axTree!
+Step 5 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+**********
+File: Kyle..json
+Number of steps: 50
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+-----
+**********
+File: 鎳掓噿澶撮《鑺辫姳馃懢JOONGI鍔犳补.json
+Number of steps: 9
+Step 1 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 4 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+**********
+File: sk.json
+Number of steps: 51
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+Step 17 has axTree!
+Step 18 has axTree!
+Step 19 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+**********
+File: cceatmore.json
+Number of steps: 27
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 7 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 2 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+**********
+File: 鍠典簡涓挭.json
+Number of steps: 50
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+Step 15 has axTree!
+Step 16 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+Step 14 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+**********
+File: Jingqiu.json
+Number of steps: 50
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+Step 2 has axTree!
+Step 3 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+Step 1 has axTree!
+-----
+**********
+File: HATBTBS.json
+Number of steps: 29
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+Step 11 has axTree!
+Step 12 has axTree!
+Step 13 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+Step 2 has axTree!
+Step 3 has axTree!
+Step 4 has axTree!
+Step 5 has axTree!
+Step 6 has axTree!
+Step 7 has axTree!
+Step 8 has axTree!
+Step 9 has axTree!
+Step 10 has axTree!
+-----
+**********
