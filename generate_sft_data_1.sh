@@ -2,18 +2,17 @@
 
 # Define users array - one user per line for better readability
 users=(
-    "Cyberpunk"
-    "HATBTBS"
-    "Im"
-    "Jingqiu"
-    "Kyle"
-    "Siing"
-    "YH"
-    "aliuliuliuliu"
-    "balidexiaocaifeng"
-    "cceatmore"
-    "daidaiyoudianer"
-    "dcynsd"
+    "haoyunlai"
+    "lanlantoudinghuahua"
+    "miaolegemi"
+    "pingdanershiyu"
+    "qingchen"
+    "qingfengmingyueMoonWind"
+    "qingfengmingyueyibuzai"
+    "qisanljyyy"
+    "sk"
+    "yashiming"
+    "ye"
 )
 
 # logs下的子目录

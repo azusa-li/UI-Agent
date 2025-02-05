@@ -1,0 +1,6112 @@
+Value: electronic bag tag
+Axtree Name: Search
+
+----------------------------------
+
+{
+    "id": "mxK-xQBHhk8ChksgUWpGm",
+    "img": "https://data.imean.tech/uploads/1735216661270-3cYHY.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/",
+    "html": "https://data.imean.tech/uploads/1735216661113-xQ7Pj.html",
+    "mask": false,
+    "path": "body>div>div>div>div>ul>li>div>form>input",
+    "type": "paste",
+    "model": "guide",
+    "tabId": 2077799141,
+    "title": "粘贴 electronic bag tag",
+    "value": "electronic bag tag",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735216662759-qkzHh.json",
+    "favicon": "https://data.imean.tech/uploads/1735216653186-gEDZy.ico",
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#txtSearch ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "Search",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735216648241,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -1.056022408963585,
+        "y": 0,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "67"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Search",
+    "attributes": {
+        "type": "text",
+        "id": "txtSearch",
+        "class": "search-input st-default-search-input focus-visible",
+        "title": "Search-box",
+        "placeholder": "Search",
+        "aria-label": "Search",
+        "autocomplete": "off",
+        "autocorrect": "off",
+        "autocapitalize": "off",
+        "data-imean-axt-id": "67",
+        "data-focus-visible-added": "",
+        "html_tag": "input"
+    },
+    "clientHeight": 38,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 183,
+    "scrollHeight": 38,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 183,
+    "offsetHeight": 40,
+    "offsetLeft": 1047,
+    "offsetTop": 10,
+    "offsetWidth": 185,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Fairbanks, AK, United States of America (FAI-Fairbanks Intl.)
+Axtree Name: Fairbanks, Alaska, United States of America
+
+----------------------------------
+
+{
+    "id": "4zKXd2-tQjbb0b06GxiJV",
+    "img": "https://data.imean.tech/uploads/1734954434119-iCKn5.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#hotels",
+    "html": "https://data.imean.tech/uploads/1734954433863-aboo6.html",
+    "mask": false,
+    "path": "body>div>ul>li",
+    "rect": {
+        "x": 251.5,
+        "y": 371,
+        "top": 371,
+        "left": 251.5,
+        "right": 634.296875,
+        "width": 382.796875,
+        "bottom": 395,
+        "height": 24
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 392,
+    "pageY": 379,
+    "tabId": 2077796549,
+    "title": "点击 Fairbanks, AK, United States of America (FAI-Fairbanks Intl.)",
+    "value": "Fairbanks, AK, United States of America (FAI-Fairbanks Intl.)",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734954435444-xfbz0.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 392,
+    "clientY": 379,
+    "favicon": "https://data.imean.tech/uploads/1734953456909-nfJCY.ico",
+    "offsetX": 392,
+    "offsetY": 379,
+    "screenX": 836,
+    "screenY": 552,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#li19_47_8223-1 ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "LI",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734954429922,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1203059348739496,
+        "y": -0.3865740740740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "478"
+} 
+
+
+{
+    "role": "listitem",
+    "name": "Fairbanks, Alaska, United States of America",
+    "attributes": {
+        "id": "li19_47_8223-0",
+        "style": "padding: 0px 3px; white-space: nowrap; background-color: rgb(255, 255, 255); color: rgb(105, 105, 105);",
+        "title": "Fairbanks, Alaska, United States of America",
+        "citycode": "1190",
+        "data-imean-axt-id": "478",
+        "html_tag": "li"
+    },
+    "clientHeight": 24,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 383,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 383,
+    "offsetHeight": 24,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 383,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Dec 30 - Dec 31
+Axtree Name: Where to? Broadway, New York, New York, United States of America, Broadway, New York, New York, United States of America
+
+----------------------------------
+
+{
+    "id": "VCdCbiQsld6sM01rOpwfk",
+    "img": "https://data.imean.tech/uploads/1734959318081-fRDcM.png",
+    "host": "vacations.alaskaair.com",
+    "href": "https://vacations.alaskaair.com/Hotel-Search?MDPCID=AlaskaVacations-EN_US.DPS.AlaskaVacations.SearchWidget-Hotel_Launch.HOTEL&destination=Broadway%2C%20New%20York%2C%20New%20York%2C%20United%20States%20of%20America&startDate=2024-12-30&endDate=2024-12-31&adults=1&paandi=true&regionId=6064537&isInvalidatedDate=false&theme=&userIntent=&semdtl=&useRewards=false&sort=RECOMMENDED",
+    "html": "https://data.imean.tech/uploads/1734959317980-4zbJD.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>form>div>div>div>div>div>div>div>button",
+    "rect": {
+        "x": 448.15625,
+        "y": 126,
+        "top": 126,
+        "left": 448.15625,
+        "right": 758.828125,
+        "width": 310.671875,
+        "bottom": 174,
+        "height": 48
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 672,
+    "pageY": 148,
+    "tabId": 2077796842,
+    "title": "点击 Dec 30 - Dec 31",
+    "value": "Dec 30 - Dec 31",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734959321567-0bfC-.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 672,
+    "clientY": 148,
+    "favicon": "",
+    "offsetX": 222.84375,
+    "offsetY": 21,
+    "screenX": 1116,
+    "screenY": 321,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "button[data-testid=\"uitk-date-selector-input1-default\"] ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Broadway, New York, New York, United States of America Hotel Search Results",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 2
+            },
+            "role": "",
+            "aria-label": "Dates, Dec 30 - Dec 31",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734959313527,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.3452271533613445,
+        "y": 0,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "kfb67o0h6gfnztc4k431xh0clab4ul-1734959307967"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "65"
+} 
+
+
+{
+    "role": "button",
+    "name": "Where to? Broadway, New York, New York, United States of America, Broadway, New York, New York, United States of America",
+    "attributes": {
+        "aria-label": "Where to? Broadway, New York, New York, United States of America, Broadway, New York, New York, United States of America",
+        "data-stid": "destination_form_field-menu-trigger",
+        "aria-expanded": "false",
+        "class": "uitk-fake-input uitk-form-field-trigger uitk-field-fake-input uitk-field-fake-input-hasicon",
+        "type": "button",
+        "data-imean-axt-id": "65",
+        "html_tag": "button"
+    },
+    "clientHeight": 46,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 309,
+    "scrollHeight": 46,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 454,
+    "offsetHeight": 48,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 311,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+
+Value: 20
+Axtree Name: Sunday, December 1, 2024 is unavailable.
+
+----------------------------------
+
+{
+    "id": "Ju8azPr6nZgzNQGtOxz2V",
+    "img": "https://data.imean.tech/uploads/1734959320940-dsltx.png",
+    "host": "vacations.alaskaair.com",
+    "href": "https://vacations.alaskaair.com/Hotel-Search?MDPCID=AlaskaVacations-EN_US.DPS.AlaskaVacations.SearchWidget-Hotel_Launch.HOTEL&destination=Broadway%2C%20New%20York%2C%20New%20York%2C%20United%20States%20of%20America&startDate=2024-12-30&endDate=2024-12-31&adults=1&paandi=true&regionId=6064537&isInvalidatedDate=false&theme=&userIntent=&semdtl=&useRewards=false&sort=RECOMMENDED",
+    "html": "https://data.imean.tech/uploads/1734959320872-3Q8yK.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>form>div>div>div>div>section>div>div>div>div>div>div>table>tbody>tr>td>div>div",
+    "rect": {
+        "x": 847.875,
+        "y": 438.28125,
+        "top": 438.28125,
+        "left": 847.875,
+        "right": 870.96875,
+        "width": 23.09375,
+        "bottom": 460.28125,
+        "height": 22
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 861,
+    "pageY": 447,
+    "tabId": 2077796842,
+    "title": "点击 20",
+    "value": "20",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734959323463-zUVB2.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 861,
+    "clientY": 447,
+    "favicon": "",
+    "offsetX": 861,
+    "offsetY": 447,
+    "screenX": 1305,
+    "screenY": 620,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-month.uitk-month-double.uitk-month-double-right >.uitk-month-table >.uitk-day-wrap >tr:nth-child(4)>td:nth-child(2)>.uitk-day-button.uitk-day-selectable.uitk-day-clickable >div:nth-child(2)",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Broadway, New York, New York, United States of America Hotel Search Results",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "DIV",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734959316803,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.703672093837535,
+        "y": -0.5400028935185185,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "136"
+} 
+
+
+{
+    "role": "generic",
+    "name": "Sunday, December 1, 2024 is unavailable.",
+    "attributes": {
+        "class": "uitk-day-aria-label",
+        "aria-label": "Sunday, December 1, 2024 is unavailable.",
+        "data-imean-axt-id": "136",
+        "html_tag": "div"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 41,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 41,
+    "offsetHeight": 0,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 41,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 25
+Axtree Name: Sunday, December 1, 2024 is unavailable.
+
+----------------------------------
+
+{
+    "id": "EZQtxCETq9vm4EEoXgnOk",
+    "img": "https://data.imean.tech/uploads/1734959322635-KTDie.png",
+    "host": "vacations.alaskaair.com",
+    "href": "https://vacations.alaskaair.com/Hotel-Search?MDPCID=AlaskaVacations-EN_US.DPS.AlaskaVacations.SearchWidget-Hotel_Launch.HOTEL&destination=Broadway%2C%20New%20York%2C%20New%20York%2C%20United%20States%20of%20America&startDate=2024-12-30&endDate=2024-12-31&adults=1&paandi=true&regionId=6064537&isInvalidatedDate=false&theme=&userIntent=&semdtl=&useRewards=false&sort=RECOMMENDED",
+    "html": "https://data.imean.tech/uploads/1734959322470-f9L7x.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>form>div>div>div>div>section>div>div>div>div>div>div>table>tbody>tr>td>div>div",
+    "rect": {
+        "x": 1052.140625,
+        "y": 438.28125,
+        "top": 438.28125,
+        "left": 1052.140625,
+        "right": 1075.234375,
+        "width": 23.09375,
+        "bottom": 460.28125,
+        "height": 22
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 1057,
+    "pageY": 458,
+    "tabId": 2077796842,
+    "title": "点击 25",
+    "value": "25",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734959324283-3wznu.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 1057,
+    "clientY": 458,
+    "favicon": "",
+    "offsetX": 1057,
+    "offsetY": 458,
+    "screenX": 1501,
+    "screenY": 631,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-month.uitk-month-double.uitk-month-double-right >.uitk-month-table >.uitk-day-wrap >tr:nth-child(4)>td:nth-child(7)>.uitk-day-button.uitk-day-selectable.uitk-day-clickable >div:nth-child(2)",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Broadway, New York, New York, United States of America Hotel Search Results",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "DIV",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734959318552,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.9897584033613446,
+        "y": -0.5400028935185185,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "136"
+} 
+
+
+{
+    "role": "generic",
+    "name": "Sunday, December 1, 2024 is unavailable.",
+    "attributes": {
+        "class": "uitk-day-aria-label",
+        "aria-label": "Sunday, December 1, 2024 is unavailable.",
+        "data-imean-axt-id": "136",
+        "html_tag": "div"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 41,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 41,
+    "offsetHeight": 0,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 41,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 24
+Axtree Name: 1
+
+----------------------------------
+
+{
+    "id": "_xBHoAATfEWwPsST9mr0S",
+    "img": "https://data.imean.tech/uploads/1735042243716-Zk5Vo.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735042243610-tz2N3.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>div>div>div>div>div>button>span",
+    "rect": {
+        "x": 124.5625,
+        "y": 234.859375,
+        "top": 234.859375,
+        "left": 124.5625,
+        "right": 182.84375,
+        "width": 58.28125,
+        "bottom": 257.40625,
+        "height": 22.546875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 167.5,
+    "pageY": 243.625,
+    "tabId": 2077797408,
+    "title": "点击 24",
+    "value": "24",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735042247120-2CX0h.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 167.5,
+    "clientY": 243.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 167.5,
+    "offsetY": 243.625,
+    "screenX": 855,
+    "screenY": 681,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".SearchBox__date-time >div:nth-child(1)>.DatePickerInput.SearchBox__date-connected >.DatePickerInput__container >div:nth-child(1)>.DatePicker__months >.Month >.Month__days >button:nth-child(24)>.Day__number ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "SPAN",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735042238119,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.3616290266106443,
+        "y": -0.6817310474537037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "67"
+} 
+
+
+{
+    "role": "generic",
+    "name": "1",
+    "attributes": {
+        "class": "Day__number",
+        "data-imean-axt-id": "67",
+        "html_tag": "span"
+    },
+    "clientHeight": 23,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 58,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 58,
+    "offsetHeight": 23,
+    "offsetLeft": 0,
+    "offsetTop": 5,
+    "offsetWidth": 58,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "class": "",
+                "data-imean-axt-id": "68",
+                "html_tag": "span"
+            },
+            "clientHeight": 23,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 23,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 23,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 0,
+            "children": []
+        },
+        {
+            "role": "generic",
+            "name": "1",
+            "attributes": {
+                "class": "Day__number--text",
+                "data-imean-axt-id": "69",
+                "html_tag": "span"
+            },
+            "clientHeight": 24,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 24,
+            "scrollHeight": 24,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 24,
+            "offsetHeight": 24,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 24,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: New York: JFK International Airport (JFK)
+Axtree Name: Newark International Airport New Jersey (EWR)
+
+----------------------------------
+
+{
+    "id": "8MaqTEppNTw5Xl9I0-9lD",
+    "img": "https://data.imean.tech/uploads/1735041932334-7ggbq.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735041932169-HmYQp.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>ul>li>ul>li",
+    "rect": {
+        "x": 0,
+        "y": 137.671875,
+        "top": 137.671875,
+        "left": 0,
+        "right": 411,
+        "width": 411,
+        "bottom": 181.546875,
+        "height": 43.875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 208.5,
+    "pageY": 162.625,
+    "tabId": 2077797408,
+    "title": "点击 New York: JFK International Airport (JFK)",
+    "value": "New York: JFK International Airport (JFK)",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735041932944-Kak24.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 208.5,
+    "clientY": 162.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 199.5,
+    "offsetY": 9.625,
+    "screenX": 896,
+    "screenY": 600,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "li[data-testid=\"New York: JFK International Airport (JFK)\"] ",
+    "viewport": {
+        "width": 424,
+        "height": 260
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "LI",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "New York: JFK International Airport (JFK)",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735041926901,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4341736694677871,
+        "y": -0.4814453125,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "34"
+} 
+
+
+{
+    "role": "listitem",
+    "name": "Newark International Airport New Jersey (EWR)",
+    "attributes": {
+        "aria-label": "Newark International Airport New Jersey (EWR)",
+        "id": "item-0-0",
+        "class": "LocationInput__location-item ctc-autocomplete__item",
+        "data-testid": "Newark International Airport New Jersey (EWR)",
+        "data-imean-axt-id": "34",
+        "html_tag": "li"
+    },
+    "clientHeight": 43,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 411,
+    "scrollHeight": 43,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 411,
+    "offsetHeight": 44,
+    "offsetLeft": 9,
+    "offsetTop": 42,
+    "offsetWidth": 411,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 18-29
+Axtree Name: ARIA_AGE_INPUT_YOUNG_VALID
+
+----------------------------------
+
+{
+    "id": "4MEviTKAf-V0L_YF7CZv1",
+    "img": "https://data.imean.tech/uploads/1735041936163-r_rM1.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735041936014-bEep8.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>div>button",
+    "rect": {
+        "x": 208,
+        "y": 208,
+        "top": 208,
+        "left": 208,
+        "right": 270.390625,
+        "width": 62.390625,
+        "bottom": 240,
+        "height": 32
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 255.5,
+    "pageY": 220.625,
+    "tabId": 2077797408,
+    "title": "点击 18-29",
+    "value": "18-29",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735041936785-I9krz.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 255.5,
+    "clientY": 220.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 255.5,
+    "offsetY": 220.625,
+    "screenX": 943,
+    "screenY": 658,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".AgePicker__young ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "ARIA_AGE_INPUT_YOUNG_VALID",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735041930786,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4813659838935574,
+        "y": -0.6304976851851852,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "83"
+} 
+
+
+{
+    "role": "button",
+    "name": "ARIA_AGE_INPUT_YOUNG_VALID",
+    "attributes": {
+        "type": "button",
+        "class": "AgePicker__young",
+        "aria-label": "ARIA_AGE_INPUT_YOUNG_VALID",
+        "data-imean-axt-id": "83",
+        "html_tag": "button"
+    },
+    "clientHeight": 30,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 60,
+    "scrollHeight": 30,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 60,
+    "offsetHeight": 32,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 62,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 25
+Axtree Name: 1
+
+----------------------------------
+
+{
+    "id": "MZaRuvFb8hhxlLo_0dyuZ",
+    "img": "https://data.imean.tech/uploads/1735041939236-HXS6e.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735041939102-PZIng.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>div>div>div>div>div>button>span",
+    "rect": {
+        "x": 182.84375,
+        "y": 234.859375,
+        "top": 234.859375,
+        "left": 182.84375,
+        "right": 241.125,
+        "width": 58.28125,
+        "bottom": 257.40625,
+        "height": 22.546875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 199.5,
+    "pageY": 237.625,
+    "tabId": 2077797408,
+    "title": "点击 25",
+    "value": "25",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735041940826-qErOy.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 199.5,
+    "clientY": 237.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 199.5,
+    "offsetY": 237.625,
+    "screenX": 887,
+    "screenY": 675,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".SearchBox__date-time >div:nth-child(1)>.DatePickerInput.SearchBox__date-connected >.DatePickerInput__container >div:nth-child(1)>.DatePicker__months >.Month >.Month__days >button:nth-child(25)>.Day__number ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "SPAN",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735041933906,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4432554271708684,
+        "y": -0.6817310474537037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "67"
+} 
+
+
+{
+    "role": "generic",
+    "name": "1",
+    "attributes": {
+        "class": "Day__number",
+        "data-imean-axt-id": "67",
+        "html_tag": "span"
+    },
+    "clientHeight": 23,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 58,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 58,
+    "offsetHeight": 23,
+    "offsetLeft": 0,
+    "offsetTop": 5,
+    "offsetWidth": 58,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "class": "",
+                "data-imean-axt-id": "68",
+                "html_tag": "span"
+            },
+            "clientHeight": 23,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 23,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 23,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 0,
+            "children": []
+        },
+        {
+            "role": "generic",
+            "name": "1",
+            "attributes": {
+                "class": "Day__number--text",
+                "data-imean-axt-id": "69",
+                "html_tag": "span"
+            },
+            "clientHeight": 24,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 24,
+            "scrollHeight": 24,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 24,
+            "offsetHeight": 24,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 24,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: Search 
+Axtree Name: Search
+
+----------------------------------
+
+{
+    "id": "_apDxO_huS_xxglIshcEo",
+    "img": "https://data.imean.tech/uploads/1735041945733--WpT1.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735041945551-fs8v9.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>button",
+    "rect": {
+        "x": 8,
+        "y": 256,
+        "top": 256,
+        "left": 8,
+        "right": 416,
+        "width": 408,
+        "bottom": 296,
+        "height": 40
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 160.5,
+    "pageY": 281.625,
+    "tabId": 2077797408,
+    "title": "点击 Search",
+    "value": "Search ",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735041946515-XUC6H.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 160.5,
+    "clientY": 281.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 152.5,
+    "offsetY": 25.625,
+    "screenX": 848,
+    "screenY": 719,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "button[data-testid=\"btnSearch\"] ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735041940298,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4432773109243697,
+        "y": -0.7508680555555556,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "k1fb5he9nkx71nkwdpaoweapiajtpg-1735041936271"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "94"
+} 
+
+
+{
+    "role": "button",
+    "name": "Search",
+    "attributes": {
+        "class": "Button ctc-button ctc-button--primary",
+        "data-testid": "btnSearch",
+        "style": "border-radius:0.375rem;width:100%",
+        "data-imean-axt-id": "94",
+        "html_tag": "button"
+    },
+    "clientHeight": 40,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 408,
+    "scrollHeight": 40,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 408,
+    "offsetHeight": 40,
+    "offsetLeft": 8,
+    "offsetTop": 256,
+    "offsetWidth": 408,
+    "children": [
+        {
+            "role": "generic",
+            "name": "Search",
+            "attributes": {
+                "class": "SearchBox__label",
+                "data-imean-axt-id": "95",
+                "html_tag": "span"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 16,
+            "offsetLeft": 172,
+            "offsetTop": 269,
+            "offsetWidth": 54,
+            "children": []
+        },
+        {
+            "role": "svg",
+            "name": "",
+            "attributes": {
+                "class": "ctc-icon ctc-icon--external-link",
+                "role": "presentation",
+                "aria-hidden": "true",
+                "style": "margin:0px 5px",
+                "data-imean-axt-id": "96",
+                "html_tag": "svg"
+            },
+            "clientHeight": 16,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 16,
+            "scrollHeight": 16,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 16,
+            "children": [
+                {
+                    "role": "generic",
+                    "name": "",
+                    "attributes": {
+                        "xlink:href": "#external-link",
+                        "aria-hidden": "true",
+                        "data-imean-axt-id": "97",
+                        "html_tag": "use"
+                    },
+                    "clientHeight": 0,
+                    "clientLeft": 0,
+                    "clientTop": 0,
+                    "clientWidth": 0,
+                    "scrollHeight": 0,
+                    "scrollLeft": 0,
+                    "scrollTop": 0,
+                    "scrollWidth": 0,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: Hotels
+Axtree Name: Flights
+
+----------------------------------
+
+{
+    "id": "fTz1PpK_IlW6aGXHZv6PD",
+    "img": "https://data.imean.tech/uploads/1734957411570-HCyp9.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/",
+    "html": "https://data.imean.tech/uploads/1734957411223-SZ0sm.html",
+    "mask": false,
+    "path": "body>div>div>div>section>div>div>div>section>div>div>div>div>div>div>div>div>ul>li>a",
+    "rect": {
+        "x": 398.484375,
+        "y": 236.1875,
+        "top": 236.1875,
+        "left": 398.484375,
+        "right": 525.171875,
+        "width": 126.6875,
+        "bottom": 269.375,
+        "height": 33.1875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 453,
+    "pageY": 256,
+    "tabId": 2077796842,
+    "title": "点击 Hotels",
+    "value": "Hotels",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734957413643-Ind9a.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 453,
+    "clientY": 256,
+    "favicon": "https://data.imean.tech/uploads/1734953456909-nfJCY.ico",
+    "offsetX": 54.515625,
+    "offsetY": 19.8125,
+    "screenX": 897,
+    "screenY": 377,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#tab-hotels ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "tab",
+            "aria-label": "",
+            "aria-controls": "hotels",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734957406248,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1468181022408964,
+        "y": -0.08514178240740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "123"
+} 
+
+
+{
+    "role": "link",
+    "name": "Flights",
+    "attributes": {
+        "id": "tab-flights",
+        "href": "#flights",
+        "role": "tab",
+        "aria-controls": "flights",
+        "data-imean-axt-id": "123",
+        "html_tag": "a"
+    },
+    "clientHeight": 30,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 128,
+    "scrollHeight": 30,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 128,
+    "offsetHeight": 33,
+    "offsetLeft": 10,
+    "offsetTop": 0,
+    "offsetWidth": 128,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Hotels
+Axtree Name: Flights
+
+----------------------------------
+
+{
+    "id": "C6MvsSpTMXddv_gBAajqv",
+    "img": "https://data.imean.tech/uploads/1734957437022-T-Q8p.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#hotels",
+    "html": "https://data.imean.tech/uploads/1734957436895-aD0ml.html",
+    "mask": false,
+    "path": "body>div>div>div>section>div>div>div>section>div>div>div>div>div>div>div>div>ul>li>a",
+    "rect": {
+        "x": 398.484375,
+        "y": 236.1875,
+        "top": 236.1875,
+        "left": 398.484375,
+        "right": 525.171875,
+        "width": 126.6875,
+        "bottom": 269.375,
+        "height": 33.1875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 447,
+    "pageY": 255,
+    "tabId": 2077796842,
+    "title": "点击 Hotels",
+    "value": "Hotels",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734957439695-Hl9NC.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 447,
+    "clientY": 255,
+    "favicon": "https://data.imean.tech/uploads/1734953456909-nfJCY.ico",
+    "offsetX": 48.515625,
+    "offsetY": 18.8125,
+    "screenX": 891,
+    "screenY": 376,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#tab-hotels ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "tab",
+            "aria-label": "",
+            "aria-controls": "hotels",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734957433072,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1468181022408964,
+        "y": -0.08514178240740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "129"
+} 
+
+
+{
+    "role": "link",
+    "name": "Flights",
+    "attributes": {
+        "id": "tab-flights",
+        "href": "#flights",
+        "role": "tab",
+        "aria-controls": "flights",
+        "data-imean-axt-id": "129",
+        "aria-selected": "true",
+        "html_tag": "a"
+    },
+    "clientHeight": 30,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 128,
+    "scrollHeight": 30,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 128,
+    "offsetHeight": 33,
+    "offsetLeft": 10,
+    "offsetTop": 0,
+    "offsetWidth": 128,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Seattle, WA (SEA-Seattle/Tacoma Intl.)
+Axtree Name:  Seattle, WA (SEA-Seattle/Tacoma Intl.)
+
+----------------------------------
+
+{
+    "id": "cRGcq2h87pj86xo0Yf9qm",
+    "img": "https://data.imean.tech/uploads/1735049142239-4DTX8.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#status",
+    "html": "https://data.imean.tech/uploads/1735049141555-t-hoO.html",
+    "mask": false,
+    "path": "body>div>ul>li",
+    "rect": {
+        "x": 463.5,
+        "y": 423.1875,
+        "top": 423.1875,
+        "left": 463.5,
+        "right": 717.5625,
+        "width": 254.0625,
+        "bottom": 447.1875,
+        "height": 24
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 531,
+    "pageY": 428,
+    "tabId": 2077797999,
+    "title": "点击 Seattle, WA (SEA-Seattle/Tacoma Intl.)",
+    "value": "Seattle, WA (SEA-Seattle/Tacoma Intl.)",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735049143121-5CTKa.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 531,
+    "clientY": 428,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 531,
+    "offsetY": 428,
+    "screenX": 975,
+    "screenY": 601,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#li22_5_3494-0 ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "LI",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735049135129,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.3270745798319328,
+        "y": -0.5073784722222222,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "451"
+} 
+
+
+{
+    "role": "listitem",
+    "name": " Seattle, WA (SEA-Seattle/Tacoma Intl.)",
+    "attributes": {
+        "id": "li22_5_3494-0",
+        "style": "padding: 0px 3px; white-space: nowrap; background-color: rgb(105, 105, 105); color: rgb(255, 255, 255);",
+        "title": " Seattle, WA (SEA-Seattle/Tacoma Intl.)",
+        "citycode": "SEA",
+        "class": "selected_li",
+        "data-imean-axt-id": "451",
+        "html_tag": "li"
+    },
+    "clientHeight": 24,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 254,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 254,
+    "offsetHeight": 24,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 254,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "data-imean-axt-id": "452",
+                "html_tag": "b"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 15,
+            "offsetLeft": 3,
+            "offsetTop": 4,
+            "offsetWidth": 44,
+            "children": []
+        },
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "data-imean-axt-id": "453",
+                "html_tag": "b"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 15,
+            "offsetLeft": 117,
+            "offsetTop": 4,
+            "offsetWidth": 44,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: 26
+Axtree Name: 1
+
+----------------------------------
+
+{
+    "id": "hCGCY0HDBH-U1UteYtC2p",
+    "img": "https://data.imean.tech/uploads/1734962800552-xHxL5.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1734962799212-GKc7H.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>div>div>div>div>div>button>span",
+    "rect": {
+        "x": 241.125,
+        "y": 263.6875,
+        "top": 263.6875,
+        "left": 241.125,
+        "right": 299.40625,
+        "width": 58.28125,
+        "bottom": 295.84375,
+        "height": 32.15625
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 255.5,
+    "pageY": 274.625,
+    "tabId": 2077796842,
+    "title": "点击 26",
+    "value": "26",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734962802782-gEMDY.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 255.5,
+    "clientY": 274.625,
+    "favicon": "https://data.imean.tech/uploads/1734953456909-nfJCY.ico",
+    "offsetX": 255.5,
+    "offsetY": 274.625,
+    "screenX": 943,
+    "screenY": 712,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".SearchBox__date-time >div:nth-child(2)>.DatePickerInput.SearchBox__date-connected >.DatePickerInput__container >div:nth-child(1)>.DatePicker__months >.Month >.Month__days >button:nth-child(26)>.Day__number ",
+    "viewport": {
+        "width": 424,
+        "height": 356
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "SPAN",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734962792264,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.5248818277310925,
+        "y": -0.7595847800925926,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "97"
+} 
+
+
+{
+    "role": "generic",
+    "name": "1",
+    "attributes": {
+        "class": "Day__number",
+        "data-imean-axt-id": "97",
+        "html_tag": "span"
+    },
+    "clientHeight": 32,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 58,
+    "scrollHeight": 32,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 58,
+    "offsetHeight": 32,
+    "offsetLeft": 0,
+    "offsetTop": 5,
+    "offsetWidth": 58,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "class": "",
+                "data-imean-axt-id": "98",
+                "html_tag": "span"
+            },
+            "clientHeight": 32,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 32,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 32,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 0,
+            "children": []
+        },
+        {
+            "role": "generic",
+            "name": "1",
+            "attributes": {
+                "class": "Day__number--text",
+                "data-imean-axt-id": "99",
+                "html_tag": "span"
+            },
+            "clientHeight": 24,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 24,
+            "scrollHeight": 24,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 24,
+            "offsetHeight": 24,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 24,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: 27
+Axtree Name: 1
+
+----------------------------------
+
+{
+    "id": "jrr6GUhr3DtZcsf35U6yr",
+    "img": "https://data.imean.tech/uploads/1735041054119-Z74EC.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735041053855-3YiMI.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>div>div>div>div>div>button>span",
+    "rect": {
+        "x": 299.40625,
+        "y": 234.859375,
+        "top": 234.859375,
+        "left": 299.40625,
+        "right": 357.6875,
+        "width": 58.28125,
+        "bottom": 257.40625,
+        "height": 22.546875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 313.5,
+    "pageY": 250.625,
+    "tabId": 2077797408,
+    "title": "点击 27",
+    "value": "27",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735041055201-CYXWq.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 313.5,
+    "clientY": 250.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 313.5,
+    "offsetY": 250.625,
+    "screenX": 1001,
+    "screenY": 688,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".SearchBox__date-time >div:nth-child(2)>.DatePickerInput.SearchBox__date-connected >.DatePickerInput__container >div:nth-child(1)>.DatePicker__months >.Month >.Month__days >button:nth-child(27)>.Day__number ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "SPAN",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735041048507,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.6065082282913166,
+        "y": -0.6817310474537037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "88"
+} 
+
+
+{
+    "role": "generic",
+    "name": "1",
+    "attributes": {
+        "class": "Day__number",
+        "data-imean-axt-id": "88",
+        "html_tag": "span"
+    },
+    "clientHeight": 23,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 58,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 58,
+    "offsetHeight": 23,
+    "offsetLeft": 0,
+    "offsetTop": 5,
+    "offsetWidth": 58,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "class": "",
+                "data-imean-axt-id": "89",
+                "html_tag": "span"
+            },
+            "clientHeight": 23,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 23,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 23,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 0,
+            "children": []
+        },
+        {
+            "role": "generic",
+            "name": "1",
+            "attributes": {
+                "class": "Day__number--text",
+                "data-imean-axt-id": "90",
+                "html_tag": "span"
+            },
+            "clientHeight": 24,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 24,
+            "scrollHeight": 24,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 24,
+            "offsetHeight": 24,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 24,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: Search 
+Axtree Name: Search
+
+----------------------------------
+
+{
+    "id": "pk0HN7ICMWFw_5kTpWKyh",
+    "img": "https://data.imean.tech/uploads/1735041058892-nNgok.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735041058703-qYbFR.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>button",
+    "rect": {
+        "x": 8,
+        "y": 256,
+        "top": 256,
+        "left": 8,
+        "right": 416,
+        "width": 408,
+        "bottom": 296,
+        "height": 40
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 251.5,
+    "pageY": 279.625,
+    "tabId": 2077797408,
+    "title": "点击 Search",
+    "value": "Search ",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735041061044-_IogP.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 414.375,
+            "height": 150
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 251.5,
+    "clientY": 279.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 243.5,
+    "offsetY": 23.625,
+    "screenX": 939,
+    "screenY": 717,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "button[data-testid=\"btnSearch\"] ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735041053378,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4432773109243697,
+        "y": -0.7508680555555556,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "2mxw4a0nh687y1aubabishkj2jbaby-1735041052133"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "95"
+} 
+
+
+{
+    "role": "button",
+    "name": "Search",
+    "attributes": {
+        "class": "Button ctc-button ctc-button--primary",
+        "data-testid": "btnSearch",
+        "style": "border-radius:0.375rem;width:100%",
+        "data-imean-axt-id": "95",
+        "html_tag": "button"
+    },
+    "clientHeight": 40,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 408,
+    "scrollHeight": 40,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 408,
+    "offsetHeight": 40,
+    "offsetLeft": 8,
+    "offsetTop": 256,
+    "offsetWidth": 408,
+    "children": [
+        {
+            "role": "generic",
+            "name": "Search",
+            "attributes": {
+                "class": "SearchBox__label",
+                "data-imean-axt-id": "96",
+                "html_tag": "span"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 16,
+            "offsetLeft": 172,
+            "offsetTop": 269,
+            "offsetWidth": 54,
+            "children": []
+        },
+        {
+            "role": "svg",
+            "name": "",
+            "attributes": {
+                "class": "ctc-icon ctc-icon--external-link",
+                "role": "presentation",
+                "aria-hidden": "true",
+                "style": "margin:0px 5px",
+                "data-imean-axt-id": "97",
+                "html_tag": "svg"
+            },
+            "clientHeight": 16,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 16,
+            "scrollHeight": 16,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 16,
+            "children": [
+                {
+                    "role": "generic",
+                    "name": "",
+                    "attributes": {
+                        "xlink:href": "#external-link",
+                        "aria-hidden": "true",
+                        "data-imean-axt-id": "98",
+                        "html_tag": "use"
+                    },
+                    "clientHeight": 0,
+                    "clientLeft": 0,
+                    "clientTop": 0,
+                    "clientWidth": 0,
+                    "scrollHeight": 0,
+                    "scrollLeft": 0,
+                    "scrollTop": 0,
+                    "scrollWidth": 0,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: New York
+Axtree Name: Where to?
+
+----------------------------------
+
+{
+    "id": "jsuywGp3Xx0XqOIQR2hqC",
+    "img": "https://data.imean.tech/uploads/1733310345491-RFeR5.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/?pwaDialog=search-location-dialog-destination_form_field-1",
+    "html": "https://data.imean.tech/uploads/1733310345450-x5Pup.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>div>div>section>div>div>div>div>input",
+    "type": "paste",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "粘贴 New York",
+    "value": "New York",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310349309-VKeg2.json",
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#destination_form_field ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "Where to?",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310341107,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.2546296296296297,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "139"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Where to?",
+    "attributes": {
+        "data-stid": "destination_form_field-menu-input",
+        "aria-label": "Where to?",
+        "autocapitalize": "off",
+        "autocomplete": "off",
+        "autocorrect": "off",
+        "type": "text",
+        "spellcheck": "false",
+        "class": "uitk-field-input has-typeahead-custom-text-input-cta typeahead-custom-text-input",
+        "placeholder": "Going to",
+        "id": "destination_form_field",
+        "aria-required": "false",
+        "aria-invalid": "false",
+        "value": "New York",
+        "data-imean-axt-id": "139",
+        "html_tag": "input"
+    },
+    "clientHeight": 71,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 376,
+    "scrollHeight": 71,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 376,
+    "offsetHeight": 72,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 376,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Jan 5 - Jan 7
+Axtree Name: Where to? New York (and vicinity), New York, United States of America, New York (and vicinity), New York, United States of America
+
+----------------------------------
+
+{
+    "id": "OK1uNXVHBR7ZVqjyArEqI",
+    "img": "https://data.imean.tech/uploads/1733310354394-ZykLP.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310354347-JLQLL.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>div>div>div>button",
+    "rect": {
+        "x": 506.328125,
+        "y": 212,
+        "top": 212,
+        "left": 506.328125,
+        "right": 851.171875,
+        "width": 344.84375,
+        "bottom": 260,
+        "height": 48
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 Jan 5 - Jan 7",
+    "value": "Jan 5 - Jan 7",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310357375-Rvu-J.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 704,
+    "clientY": 244,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1148,
+    "screenY": 365,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "button[data-testid=\"uitk-date-selector-input1-default\"] ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 2
+            },
+            "role": "",
+            "aria-label": "Dates, Jan 5 - Jan 7",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310352202,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4506302521008403,
+        "y": -0.04629629629629629,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "127"
+} 
+
+
+{
+    "role": "button",
+    "name": "Where to? New York (and vicinity), New York, United States of America, New York (and vicinity), New York, United States of America",
+    "attributes": {
+        "aria-label": "Where to? New York (and vicinity), New York, United States of America, New York (and vicinity), New York, United States of America",
+        "data-stid": "destination_form_field-menu-trigger",
+        "aria-expanded": "false",
+        "class": "uitk-fake-input uitk-form-field-trigger uitk-field-fake-input uitk-field-fake-input-hasicon",
+        "type": "button",
+        "data-imean-axt-id": "127",
+        "html_tag": "button"
+    },
+    "clientHeight": 46,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 343,
+    "scrollHeight": 46,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 487,
+    "offsetHeight": 48,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 345,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Next month
+Axtree Name: Previous month
+
+----------------------------------
+
+{
+    "id": "L3_uWwsptj9hJSRe3CRFp",
+    "img": "https://data.imean.tech/uploads/1733310358002-ydUCb.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310357954-z3PKU.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>section>div>div>div>div>div>button",
+    "rect": {
+        "x": 1104.1875,
+        "y": 340,
+        "top": 340,
+        "left": 1104.1875,
+        "right": 1136.1875,
+        "width": 32,
+        "bottom": 372,
+        "height": 32
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 Next month",
+    "value": "Next month",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310359189-9S0qf.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 1125,
+    "clientY": 359,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1569,
+    "screenY": 480,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-cal-controls-button.uitk-cal-controls-button-inset-multi.uitk-cal-controls-button-next >.uitk-button.uitk-button-medium.uitk-button-only-icon.uitk-button-paging ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310355836,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -1.056022408963585,
+        "y": -0.3240740740740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "167"
+} 
+
+
+{
+    "role": "button",
+    "name": "Previous month",
+    "attributes": {
+        "data-stid": "uitk-calendar-navigation-controls-previous-button",
+        "type": "button",
+        "class": "uitk-button uitk-button-medium uitk-button-only-icon uitk-button-paging",
+        "data-imean-axt-id": "167",
+        "disabled": "",
+        "html_tag": "button"
+    },
+    "clientHeight": 32,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 32,
+    "scrollHeight": 32,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 32,
+    "offsetHeight": 32,
+    "offsetLeft": 6,
+    "offsetTop": 0,
+    "offsetWidth": 32,
+    "children": [
+        {
+            "role": "svg",
+            "name": "Previous month",
+            "attributes": {
+                "class": "uitk-icon uitk-icon-leading uitk-icon-directional",
+                "aria-label": "Previous month",
+                "role": "img",
+                "viewBox": "0 0 24 24",
+                "xmlns": "http://www.w3.org/2000/svg",
+                "xmlns:xlink": "http://www.w3.org/1999/xlink",
+                "data-imean-axt-id": "168",
+                "html_tag": "svg"
+            },
+            "clientHeight": 24,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 24,
+            "scrollHeight": 24,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 24,
+            "children": [
+                {
+                    "role": "document",
+                    "name": "Previous month",
+                    "attributes": {
+                        "id": "b13vui-title",
+                        "data-imean-axt-id": "169",
+                        "html_tag": "title"
+                    },
+                    "clientHeight": 0,
+                    "clientLeft": 0,
+                    "clientTop": 0,
+                    "clientWidth": 0,
+                    "scrollHeight": 0,
+                    "scrollLeft": 0,
+                    "scrollTop": 0,
+                    "scrollWidth": 0,
+                    "children": []
+                },
+                {
+                    "role": "generic",
+                    "name": "",
+                    "attributes": {
+                        "d": "M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12l4.58-4.59z",
+                        "data-imean-axt-id": "170",
+                        "html_tag": "path"
+                    },
+                    "clientHeight": 0,
+                    "clientLeft": 0,
+                    "clientTop": 0,
+                    "clientWidth": 0,
+                    "scrollHeight": 0,
+                    "scrollLeft": 0,
+                    "scrollTop": 0,
+                    "scrollWidth": 0,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: 2
+Axtree Name: Wednesday, January 1, 2025
+
+----------------------------------
+
+{
+    "id": "6Nttz7129xSOtO64Xap9W",
+    "img": "https://data.imean.tech/uploads/1733310360267-HQakd.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310360445-QJ90E.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>section>div>div>div>div>div>div>div>table>tbody>tr>td>div>div",
+    "rect": {
+        "x": 865.75,
+        "y": 486.40625,
+        "top": 486.40625,
+        "left": 865.75,
+        "right": 887.75,
+        "width": 22,
+        "bottom": 508.40625,
+        "height": 22
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 2",
+    "value": "2",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310362233-oycqI.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 874,
+    "clientY": 499,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1318,
+    "screenY": 620,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-month.uitk-month-double.uitk-month-double-right >.uitk-month-table >.uitk-day-wrap >tr:nth-child(2)>td:nth-child(1)>.uitk-day-button.uitk-day-selectable.uitk-day-clickable >div:nth-child(2)",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "DIV",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310358281,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.7279411764705882,
+        "y": -0.6514033564814815,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "211"
+} 
+
+
+{
+    "role": "generic",
+    "name": "Wednesday, January 1, 2025",
+    "attributes": {
+        "class": "uitk-day-aria-label",
+        "aria-label": "Wednesday, January 1, 2025",
+        "data-imean-axt-id": "211",
+        "html_tag": "div"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 41,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 41,
+    "offsetHeight": 0,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 41,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 20
+Axtree Name: Wednesday, January 1, 2025
+
+----------------------------------
+
+{
+    "id": "WepPaPmrEZg1hNXWogITn",
+    "img": "https://data.imean.tech/uploads/1733310362789-BACih.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310362805-3SNhM.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>section>div>div>div>div>div>div>div>table>tbody>tr>td>div>div",
+    "rect": {
+        "x": 1027.6484375,
+        "y": 572.28125,
+        "top": 572.28125,
+        "left": 1027.6484375,
+        "right": 1052.6015625,
+        "width": 24.953125,
+        "bottom": 594.28125,
+        "height": 22
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 20",
+    "value": "20",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310365632-6ouoN.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 1034,
+    "clientY": 580,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1478,
+    "screenY": 701,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-month.uitk-month-double.uitk-month-double-right >.uitk-month-table >.uitk-day-wrap >tr:nth-child(4)>td:nth-child(5)>.uitk-day-button.uitk-day-selectable.uitk-day-clickable >div:nth-child(2)",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "DIV",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310360527,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.9567577030812324,
+        "y": -0.8501880787037037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "211"
+} 
+
+
+{
+    "role": "generic",
+    "name": "Wednesday, January 1, 2025",
+    "attributes": {
+        "class": "uitk-day-aria-label",
+        "aria-label": "Wednesday, January 1, 2025",
+        "data-imean-axt-id": "211",
+        "html_tag": "div"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 41,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 41,
+    "offsetHeight": 0,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 41,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Feb 22 - Feb 23
+Axtree Name: Where to? New York (and vicinity), New York, United States of America, New York (and vicinity), New York, United States of America
+
+----------------------------------
+
+{
+    "id": "rrIhua6gs1E0yH1pfzXoH",
+    "img": "https://data.imean.tech/uploads/1733310365256-D3ab1.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310365253-WNvRy.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>div>div>div>button",
+    "rect": {
+        "x": 506.328125,
+        "y": 212,
+        "top": 212,
+        "left": 506.328125,
+        "right": 851.171875,
+        "width": 344.84375,
+        "bottom": 260,
+        "height": 48
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 Feb 22 - Feb 23",
+    "value": "Feb 22 - Feb 23",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310366821-tcVaB.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 728,
+    "clientY": 244,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1172,
+    "screenY": 365,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "button[data-testid=\"uitk-date-selector-input1-default\"] ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 2
+            },
+            "role": "",
+            "aria-label": "Dates, Feb 22 - Feb 23",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310362964,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4506302521008403,
+        "y": -0.04629629629629629,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "127"
+} 
+
+
+{
+    "role": "button",
+    "name": "Where to? New York (and vicinity), New York, United States of America, New York (and vicinity), New York, United States of America",
+    "attributes": {
+        "aria-label": "Where to? New York (and vicinity), New York, United States of America, New York (and vicinity), New York, United States of America",
+        "data-stid": "destination_form_field-menu-trigger",
+        "aria-expanded": "false",
+        "class": "uitk-fake-input uitk-form-field-trigger uitk-field-fake-input uitk-field-fake-input-hasicon",
+        "type": "button",
+        "data-imean-axt-id": "127",
+        "html_tag": "button"
+    },
+    "clientHeight": 46,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 343,
+    "scrollHeight": 46,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 487,
+    "offsetHeight": 48,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 345,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 20
+Axtree Name: Saturday, February 1, 2025
+
+----------------------------------
+
+{
+    "id": "xnZQ8kg5EAG0vlt6ZbOZd",
+    "img": "https://data.imean.tech/uploads/1733310367500-GxbEK.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310367453-qXEra.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>section>div>div>div>div>div>div>div>table>tbody>tr>td>div>div",
+    "rect": {
+        "x": 693.6484375,
+        "y": 572.28125,
+        "top": 572.28125,
+        "left": 693.6484375,
+        "right": 718.6015625,
+        "width": 24.953125,
+        "bottom": 594.28125,
+        "height": 22
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 20",
+    "value": "20",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310368925-46udP.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 706,
+    "clientY": 581,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1150,
+    "screenY": 702,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-month.uitk-month-double.uitk-month-double-left >.uitk-month-table >.uitk-day-wrap >tr:nth-child(4)>td:nth-child(5)>.uitk-day-button.uitk-day-selectable.uitk-day-clickable >div:nth-child(2)",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "DIV",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310365316,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4889705882352941,
+        "y": -0.8501880787037037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "214"
+} 
+
+
+{
+    "role": "generic",
+    "name": "Saturday, February 1, 2025",
+    "attributes": {
+        "class": "uitk-day-aria-label",
+        "aria-label": "Saturday, February 1, 2025",
+        "data-imean-axt-id": "214",
+        "html_tag": "div"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 41,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 41,
+    "offsetHeight": 0,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 41,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 22
+Axtree Name: Saturday, February 1, 2025
+
+----------------------------------
+
+{
+    "id": "Y4vjEFvUHqiZoY2rOMbJq",
+    "img": "https://data.imean.tech/uploads/1733310368430-lKC-K.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310368379-ZgS7i.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>section>div>div>div>div>div>div>div>table>tbody>tr>td>div>div",
+    "rect": {
+        "x": 776.203125,
+        "y": 572.28125,
+        "top": 572.28125,
+        "left": 776.203125,
+        "right": 799.515625,
+        "width": 23.3125,
+        "bottom": 594.28125,
+        "height": 22
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 22",
+    "value": "22",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310369788-vdD9t.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 786,
+    "clientY": 588,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1230,
+    "screenY": 709,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-month.uitk-month-double.uitk-month-double-left >.uitk-month-table >.uitk-day-wrap >tr:nth-child(4)>td:nth-child(7)>.uitk-day-button.uitk-day-selectable.uitk-day-clickable >div:nth-child(2)",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "DIV",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310366309,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.6034445028011205,
+        "y": -0.8501880787037037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "214"
+} 
+
+
+{
+    "role": "generic",
+    "name": "Saturday, February 1, 2025",
+    "attributes": {
+        "class": "uitk-day-aria-label",
+        "aria-label": "Saturday, February 1, 2025",
+        "data-imean-axt-id": "214",
+        "html_tag": "div"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 41,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 41,
+    "offsetHeight": 0,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 41,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 2 travelers, 1 room
+Axtree Name: Travelers, 2 travelers, 1 room
+
+----------------------------------
+
+{
+    "id": "RRsb_whA0r86RqvrL-qZW",
+    "img": "https://data.imean.tech/uploads/1733310373996-R4Duh.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/",
+    "html": "https://data.imean.tech/uploads/1733310373985-u9Pua.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>div>button",
+    "rect": {
+        "x": 863.171875,
+        "y": 212,
+        "top": 212,
+        "left": 863.171875,
+        "right": 1208,
+        "width": 344.828125,
+        "bottom": 260,
+        "height": 48
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 2 travelers, 1 room",
+    "value": "2 travelers, 1 room",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310376044-Bqvto.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 1058,
+    "clientY": 253,
+    "favicon": "https://data.imean.tech/uploads/1733310349132-zMpQs.ico",
+    "screenX": 1502,
+    "screenY": 374,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-menu.uitk-menu-mounted >.uitk-field.has-floatedLabel-label.has-icon.has-placeholder >button:nth-child(3)",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "Expedia Travel: Vacation Homes, Hotels, Car Rentals, Flights & More",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 2
+            },
+            "role": "",
+            "aria-label": "Travelers, 2 travelers, 1 room",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310371725,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.9504004726890756,
+        "y": -0.04629629629629629,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "145"
+} 
+
+
+{
+    "role": "button",
+    "name": "Travelers, 2 travelers, 1 room",
+    "attributes": {
+        "aria-roledescription": "expand to change the number of travelers",
+        "data-stid": "open-room-picker",
+        "aria-expanded": "false",
+        "aria-label": "Travelers, 2 travelers, 1 room",
+        "class": "uitk-menu-trigger open-room-picker-observer-root uitk-fake-input uitk-form-field-trigger uitk-field-fake-input uitk-field-fake-input-hasicon",
+        "type": "button",
+        "data-imean-axt-id": "145",
+        "html_tag": "button"
+    },
+    "clientHeight": 46,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 343,
+    "scrollHeight": 46,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 343,
+    "offsetHeight": 48,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 345,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: FREE_BREAKFAST
+Axtree Name: Breakfast included (633)
+
+----------------------------------
+
+{
+    "id": "d_GNwLq__ANdcwCGMxfbZ",
+    "img": "https://data.imean.tech/uploads/1733310383547-3wONc.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/Hotel-Search?destination=New%20York%20%28and%20vicinity%29%2C%20New%20York%2C%20United%20States%20of%20America&regionId=178293&flexibility=0_DAY&d1=2025-02-20&startDate=2025-02-20&d2=2025-02-22&endDate=2025-02-22&adults=1&rooms=1&theme=&userIntent=&semdtl=&useRewards=false&sort=RECOMMENDED",
+    "html": "https://data.imean.tech/uploads/1733310383583-yRE_Y.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>div>section>div>form>div>div>div>fieldset>div>div>div>input",
+    "rect": {
+        "x": 129.5,
+        "y": 627.140625,
+        "top": 627.140625,
+        "left": 129.5,
+        "right": 147.5,
+        "width": 18,
+        "bottom": 645.140625,
+        "height": 18
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 FREE_BREAKFAST",
+    "value": "FREE_BREAKFAST",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310386991-76uY1.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 136,
+    "clientY": 634,
+    "favicon": "",
+    "screenX": 580,
+    "screenY": 807,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#mealPlan-FREE_BREAKFAST-iqo ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "New York (and vicinity), New York, United States of America Hotel Search Results",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "Breakfast included (633)",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310381661,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.9725477430555556,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "qclfxwfdx0m8mqcgoi9vze0pc6fpe9-1733310378167"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "190"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Breakfast included (633)",
+    "attributes": {
+        "type": "checkbox",
+        "name": "mealPlan",
+        "id": "mealPlan-FREE_BREAKFAST-iqo",
+        "class": "uitk-layout-flex-item uitk-layout-flex-item-flex-shrink-0",
+        "value": "FREE_BREAKFAST",
+        "aria-label": "Breakfast included (633)",
+        "data-imean-axt-id": "190",
+        "html_tag": "input"
+    },
+    "clientHeight": 18,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 18,
+    "scrollHeight": 18,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 18,
+    "offsetHeight": 18,
+    "offsetLeft": 8,
+    "offsetTop": 8,
+    "offsetWidth": 18,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: See more
+Axtree Name: See more: Amenities
+
+----------------------------------
+
+{
+    "id": "Bi1xKRsxL51k2AGdnPV7u",
+    "img": "https://data.imean.tech/uploads/1733310396103-8Pyps.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/Hotel-Search?adults=1&d1=2025-02-20&d2=2025-02-22&destination=New%20York%20%28and%20vicinity%29%2C%20New%20York%2C%20United%20States%20of%20America&endDate=2025-02-22&flexibility=0_DAY&mealPlan=FREE_BREAKFAST&regionId=178293&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2025-02-20&theme=&useRewards=false&userIntent=",
+    "html": "https://data.imean.tech/uploads/1733310396186-NPM3u.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>div>section>div>form>div>div>div>fieldset>div>div>button",
+    "rect": {
+        "x": 125.5,
+        "y": 359.140625,
+        "top": 359.140625,
+        "left": 125.5,
+        "right": 361.5,
+        "width": 236,
+        "bottom": 377.140625,
+        "height": 18
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 See more",
+    "value": "See more",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310399795-Nrf8F.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 169,
+    "clientY": 367,
+    "favicon": "",
+    "screenX": 613,
+    "screenY": 540,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-spacing.uitk-spacing-margin-blockstart-six >div:nth-child(5)>div:nth-child(1)>fieldset:nth-child(1)>.uitk-expando-peek >.uitk-expando-peek-control >.uitk-link.uitk-expando-peek-link.uitk-link-align-left.uitk-link-layout-default.uitk-link-medium ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "New York (and vicinity), New York, United States of America Hotel Search Results",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "See more: Amenities",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310392349,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.3521773726851852,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "314"
+} 
+
+
+{
+    "role": "button",
+    "name": "See more: Amenities",
+    "attributes": {
+        "type": "button",
+        "aria-label": "See more: Amenities",
+        "class": "uitk-link uitk-expando-peek-link uitk-link-align-left uitk-link-layout-default uitk-link-medium",
+        "aria-expanded": "false",
+        "data-imean-axt-id": "314",
+        "html_tag": "button"
+    },
+    "clientHeight": 18,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 236,
+    "scrollHeight": 18,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 236,
+    "offsetHeight": 18,
+    "offsetLeft": 126,
+    "offsetTop": 1259,
+    "offsetWidth": 236,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: POOL
+Axtree Name: Pet friendly (360)
+
+----------------------------------
+
+{
+    "id": "XlRsJ30F4CC8g4DgpEJob",
+    "img": "https://data.imean.tech/uploads/1733310396619-CAuqS.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/Hotel-Search?adults=1&d1=2025-02-20&d2=2025-02-22&destination=New%20York%20%28and%20vicinity%29%2C%20New%20York%2C%20United%20States%20of%20America&endDate=2025-02-22&flexibility=0_DAY&mealPlan=FREE_BREAKFAST&regionId=178293&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2025-02-20&theme=&useRewards=false&userIntent=",
+    "html": "https://data.imean.tech/uploads/1733310396872-TMXvI.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>div>section>div>form>div>div>div>fieldset>div>div>div>div>div>div>input",
+    "rect": {
+        "x": 129.5,
+        "y": 389.140625,
+        "top": 389.140625,
+        "left": 129.5,
+        "right": 147.5,
+        "width": 18,
+        "bottom": 407.140625,
+        "height": 18
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 POOL",
+    "value": "POOL",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310400395-SM1gE.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 130,
+    "clientY": 394,
+    "favicon": "",
+    "screenX": 574,
+    "screenY": 567,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#amenities-POOL-jtw ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "New York (and vicinity), New York, United States of America Hotel Search Results",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "Pool (150)",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310394775,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.4216218171296297,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "292"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Pet friendly (360)",
+    "attributes": {
+        "type": "checkbox",
+        "name": "amenities",
+        "id": "amenities-PETS-793",
+        "class": "uitk-layout-flex-item uitk-layout-flex-item-flex-shrink-0",
+        "value": "PETS",
+        "aria-label": "Pet friendly (360)",
+        "data-imean-axt-id": "292",
+        "html_tag": "input"
+    },
+    "clientHeight": 18,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 18,
+    "scrollHeight": 18,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 18,
+    "offsetHeight": 18,
+    "offsetLeft": 8,
+    "offsetTop": 8,
+    "offsetWidth": 18,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: GYM
+Axtree Name: Pet friendly (98)
+
+----------------------------------
+
+{
+    "id": "YgBSjikQJCSn5amG9HJ6V",
+    "img": "https://data.imean.tech/uploads/1733310403042-ElwZw.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/Hotel-Search?adults=1&amenities=POOL&d1=2025-02-20&d2=2025-02-22&destination=New%20York%20%28and%20vicinity%29%2C%20New%20York%2C%20United%20States%20of%20America&endDate=2025-02-22&flexibility=0_DAY&mealPlan=FREE_BREAKFAST&regionId=178293&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2025-02-20&theme=&useRewards=false&userIntent=",
+    "html": "https://data.imean.tech/uploads/1733310402911-4Fqy9.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>div>section>div>form>div>div>div>fieldset>div>div>div>div>div>div>input",
+    "rect": {
+        "x": 129.5,
+        "y": 623.140625,
+        "top": 623.140625,
+        "left": 129.5,
+        "right": 147.5,
+        "width": 18,
+        "bottom": 641.140625,
+        "height": 18
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 GYM",
+    "value": "GYM",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310405157-8VgmX.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 140,
+    "clientY": 636,
+    "favicon": "",
+    "screenX": 584,
+    "screenY": 809,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#amenities-GYM-br0 ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "New York (and vicinity), New York, United States of America Hotel Search Results",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "Gym (137)",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310401710,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.9632884837962964,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "292"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Pet friendly (98)",
+    "attributes": {
+        "type": "checkbox",
+        "name": "amenities",
+        "id": "amenities-PETS-793",
+        "class": "uitk-layout-flex-item uitk-layout-flex-item-flex-shrink-0",
+        "value": "PETS",
+        "aria-label": "Pet friendly (98)",
+        "data-imean-axt-id": "292",
+        "html_tag": "input"
+    },
+    "clientHeight": 18,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 18,
+    "scrollHeight": 18,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 18,
+    "offsetHeight": 18,
+    "offsetLeft": 8,
+    "offsetTop": 8,
+    "offsetWidth": 18,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Room
+Axtree Name: Opens Holiday Inn Brooklyn Downtown, an IHG Hotel in new tab
+
+----------------------------------
+
+{
+    "id": "eV68ispNvFyHCfDDyjpAG",
+    "img": "https://data.imean.tech/uploads/1733310412598-DHr8O.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/Hotel-Search?adults=1&amenities=POOL&amenities=GYM&d1=2025-02-20&d2=2025-02-22&destination=New%20York%20%28and%20vicinity%29%2C%20New%20York%2C%20United%20States%20of%20America&endDate=2025-02-22&flexibility=0_DAY&mealPlan=FREE_BREAKFAST&regionId=178293&rooms=1&semdtl=&sort=RECOMMENDED&startDate=2025-02-20&theme=&useRewards=false&userIntent=",
+    "html": "https://data.imean.tech/uploads/1733310412396-XjAL5.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>div>div>div>div>div>div>div>div>figure>span>div>div>div>figure>button",
+    "rect": {
+        "x": 385.5,
+        "y": 590.078125,
+        "top": 590.078125,
+        "left": 385.5,
+        "right": 637.5,
+        "width": 252,
+        "bottom": 840.078125,
+        "height": 250
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077793353,
+    "title": "点击 Room",
+    "value": "Room",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733310416195-R4hrL.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 500,
+    "clientY": 695,
+    "favicon": "",
+    "screenX": 944,
+    "screenY": 868,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-layout-grid-item.uitk-layout-grid-item-has-column-start >div:nth-child(3)>div:nth-child(3)>div:nth-child(2)>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>.uitk-layout-flex.uitk-layout-flex-block-size-full-size.uitk-layout-position.uitk-layout-position-top-zero.uitk-layout-position-left-zero.uitk-layout-position-relative >.uitk-image.uitk-layout-position.uitk-layout-position-zindex-layer2.uitk-image-fit-cover.uitk-image-ratio-21-9.uitk-image-ratio >span:nth-child(1)>.uitk-gallery-carousel >.uitk-gallery-carousel-items.ratio-21-9 >.uitk-gallery-carousel-item.uitk-gallery-carousel-item-current >.uitk-image.uitk-image-fit-cover.uitk-image-ratio-21-9.uitk-image-ratio >.uitk-image-link ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "New York (and vicinity), New York, United States of America Hotel Search Results",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "Opens Virgin Hotels New York City in new tab",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733310408357,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.2163865546218487,
+        "y": -1.081018518518519,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "qclfxwfdx0m8mqcgoi9vze0pc6fpe9-1733310404908"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "974"
+} 
+
+
+{
+    "role": "button",
+    "name": "Opens Holiday Inn Brooklyn Downtown, an IHG Hotel in new tab",
+    "attributes": {
+        "type": "button",
+        "data-testid": "uitk-gallery-item-current-trigger",
+        "aria-label": "Opens Holiday Inn Brooklyn Downtown, an IHG Hotel in new tab",
+        "class": "uitk-image-link",
+        "data-imean-axt-id": "974",
+        "html_tag": "button"
+    },
+    "clientHeight": 201,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 252,
+    "scrollHeight": 201,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 252,
+    "offsetHeight": 201,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 252,
+    "children": [
+        {
+            "role": "generic",
+            "name": "Spa",
+            "attributes": {
+                "class": "is-visually-hidden",
+                "data-imean-axt-id": "975",
+                "html_tag": "span"
+            },
+            "clientHeight": 1,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 1,
+            "scrollHeight": 17,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 23,
+            "offsetHeight": 1,
+            "offsetLeft": 125,
+            "offsetTop": 100,
+            "offsetWidth": 1,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: Flight status
+Axtree Name: Book
+
+----------------------------------
+
+{
+    "id": "I2xCA4_MHPz8NRw7HdhtE",
+    "img": "https://data.imean.tech/uploads/1735127978827-ZeMQm.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#cars",
+    "html": "https://data.imean.tech/uploads/1735127978632-n5dKB.html",
+    "mask": false,
+    "path": "body>div>div>div>section>div>div>div>section>div>div>div>div>ul>li>a",
+    "rect": {
+        "x": 422.890625,
+        "y": 181,
+        "top": 181,
+        "left": 422.890625,
+        "right": 552.75,
+        "width": 129.859375,
+        "bottom": 225.1875,
+        "height": 44.1875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 473,
+    "pageY": 202,
+    "tabId": 2077798282,
+    "title": "点击 Flight status",
+    "value": "Flight status",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735127981171-h58VU.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 473,
+    "clientY": 202,
+    "favicon": "https://data.imean.tech/uploads/1735127615957-73G20.ico",
+    "offsetX": 50.109375,
+    "offsetY": 21,
+    "screenX": 917,
+    "screenY": 375,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#tab-status ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "tab",
+            "aria-label": "",
+            "aria-controls": "status",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735127971112,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1832217261904762,
+        "y": 0,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "0amk9j0ubwl06afxnlbnmsj102eh1h-1735127969987"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "116"
+} 
+
+
+{
+    "role": "link",
+    "name": "Book",
+    "attributes": {
+        "id": "tab-booking",
+        "href": "#booking",
+        "role": "tab",
+        "aria-controls": "booking",
+        "aria-selected": "true",
+        "data-imean-axt-id": "116",
+        "html_tag": "a"
+    },
+    "clientHeight": 44,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 85,
+    "scrollHeight": 44,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 85,
+    "offsetHeight": 44,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 85,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 25
+Axtree Name: 1
+
+----------------------------------
+
+{
+    "id": "XNSUm88TO5PWViKjwDASc",
+    "img": "https://data.imean.tech/uploads/1735043161747-8IGyk.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#manage",
+    "html": "https://data.imean.tech/uploads/1735043161286-y9r0i.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>div>div>div>div>div>div>button>span",
+    "rect": {
+        "x": 182.84375,
+        "y": 234.859375,
+        "top": 234.859375,
+        "left": 182.84375,
+        "right": 241.125,
+        "width": 58.28125,
+        "bottom": 257.40625,
+        "height": 22.546875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 223.5,
+    "pageY": 252.625,
+    "tabId": 2077797408,
+    "title": "点击 25",
+    "value": "25",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735043162684-PD2vA.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 572.375,
+            "height": 308
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 223.5,
+    "clientY": 252.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 223.5,
+    "offsetY": 252.625,
+    "screenX": 911,
+    "screenY": 690,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".SearchBox__date-time >div:nth-child(2)>.DatePickerInput.SearchBox__date-connected >.DatePickerInput__container >div:nth-child(1)>.DatePicker__months >.Month >.Month__days >button:nth-child(25)>.Day__number ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "SPAN",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735043155734,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4432554271708684,
+        "y": -0.6817310474537037,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "88"
+} 
+
+
+{
+    "role": "generic",
+    "name": "1",
+    "attributes": {
+        "class": "Day__number",
+        "data-imean-axt-id": "88",
+        "html_tag": "span"
+    },
+    "clientHeight": 23,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 58,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 58,
+    "offsetHeight": 23,
+    "offsetLeft": 0,
+    "offsetTop": 5,
+    "offsetWidth": 58,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "class": "",
+                "data-imean-axt-id": "89",
+                "html_tag": "span"
+            },
+            "clientHeight": 23,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 23,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 23,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 0,
+            "children": []
+        },
+        {
+            "role": "generic",
+            "name": "1",
+            "attributes": {
+                "class": "Day__number--text",
+                "data-imean-axt-id": "90",
+                "html_tag": "span"
+            },
+            "clientHeight": 24,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 24,
+            "scrollHeight": 24,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 24,
+            "offsetHeight": 24,
+            "offsetLeft": 17,
+            "offsetTop": 0,
+            "offsetWidth": 24,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: Search 
+Axtree Name: Search
+
+----------------------------------
+
+{
+    "id": "zMuFl6j94ctGXZEZ9MsO0",
+    "img": "https://data.imean.tech/uploads/1735043164004-ej6_m.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#manage",
+    "html": "https://data.imean.tech/uploads/1735043163596-nj15z.html",
+    "mask": false,
+    "path": "body>div>div>form>div>div>button",
+    "rect": {
+        "x": 8,
+        "y": 256,
+        "top": 256,
+        "left": 8,
+        "right": 416,
+        "width": 408,
+        "bottom": 296,
+        "height": 40
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 254.5,
+    "pageY": 279.625,
+    "tabId": 2077797408,
+    "title": "点击 Search",
+    "value": "Search ",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735043164419-pPcFz.json",
+    "detail": 0,
+    "iframe": {
+        "rect": {
+            "x": 461.5,
+            "y": 264.375,
+            "top": 264.375,
+            "left": 461.5,
+            "right": 885.5,
+            "width": 424,
+            "bottom": 572.375,
+            "height": 308
+        },
+        "selector": "#iFrameResizer0 ",
+        "devicePixelRatio": 1
+    },
+    "bubbles": true,
+    "clientX": 254.5,
+    "clientY": 279.625,
+    "favicon": "https://data.imean.tech/uploads/1735040526678-7ZTb4.ico",
+    "offsetX": 246.5,
+    "offsetY": 23.625,
+    "screenX": 942,
+    "screenY": 717,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "button[data-testid=\"btnSearch\"] ",
+    "viewport": {
+        "width": 424,
+        "height": 308
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735043158353,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.4432773109243697,
+        "y": -0.7508680555555556,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "79b4vm2hfz4xmdjycl29kakhhitjjk-1735043156861"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "95"
+} 
+
+
+{
+    "role": "button",
+    "name": "Search",
+    "attributes": {
+        "class": "Button ctc-button ctc-button--primary",
+        "data-testid": "btnSearch",
+        "style": "border-radius:0.375rem;width:100%",
+        "data-imean-axt-id": "95",
+        "html_tag": "button"
+    },
+    "clientHeight": 40,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 408,
+    "scrollHeight": 40,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 408,
+    "offsetHeight": 40,
+    "offsetLeft": 8,
+    "offsetTop": 256,
+    "offsetWidth": 408,
+    "children": [
+        {
+            "role": "generic",
+            "name": "Search",
+            "attributes": {
+                "class": "SearchBox__label",
+                "data-imean-axt-id": "96",
+                "html_tag": "span"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 16,
+            "offsetLeft": 172,
+            "offsetTop": 269,
+            "offsetWidth": 54,
+            "children": []
+        },
+        {
+            "role": "svg",
+            "name": "",
+            "attributes": {
+                "class": "ctc-icon ctc-icon--external-link",
+                "role": "presentation",
+                "aria-hidden": "true",
+                "style": "margin:0px 5px",
+                "data-imean-axt-id": "97",
+                "html_tag": "svg"
+            },
+            "clientHeight": 16,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 16,
+            "scrollHeight": 16,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 16,
+            "children": [
+                {
+                    "role": "generic",
+                    "name": "",
+                    "attributes": {
+                        "xlink:href": "#external-link",
+                        "aria-hidden": "true",
+                        "data-imean-axt-id": "98",
+                        "html_tag": "use"
+                    },
+                    "clientHeight": 0,
+                    "clientLeft": 0,
+                    "clientTop": 0,
+                    "clientWidth": 0,
+                    "scrollHeight": 0,
+                    "scrollLeft": 0,
+                    "scrollTop": 0,
+                    "scrollWidth": 0,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: 上海, 中国 (PVG-浦东国际机场)
+Axtree Name: 出发地 上海, 中国 (PVG-浦东国际机场), 上海, 中国 (PVG-浦东国际机场)
+
+----------------------------------
+
+{
+    "id": "uT1vSj7EXhhghnWiRApVg",
+    "img": "https://data.imean.tech/uploads/1733407493488--kH-9.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/cn/Flights",
+    "html": "https://data.imean.tech/uploads/1733407488161-ffX1k.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>form>div>div>div>div>div>div>div>div>div>button",
+    "rect": {
+        "x": 125.5,
+        "y": 244,
+        "top": 244,
+        "left": 125.5,
+        "right": 417.5,
+        "width": 292,
+        "bottom": 292,
+        "height": 48
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077794129,
+    "title": "点击 上海, 中国 (PVG-浦东国际机场)",
+    "value": "上海, 中国 (PVG-浦东国际机场)",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733407552447-RF-wg.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 305,
+    "clientY": 276,
+    "favicon": "https://data.imean.tech/uploads/1733404479560-kJi5w.ico",
+    "screenX": 749,
+    "screenY": 397,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".uitk-layout-flex-item.uitk-layout-flex-item-max-width-half_width >div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>.uitk-layout-position.uitk-layout-position-relative >div:nth-child(1)>.uitk-field.has-floatedLabel-label.has-icon.has-placeholder >.uitk-fake-input.uitk-form-field-trigger.uitk-field-fake-input.uitk-field-fake-input-hasicon ",
+    "viewport": {
+        "width": 1468,
+        "height": 951
+    },
+    "hostTitle": "机票预订：特价机票优惠，机票价格，飞机票打折 | Expedia.com",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "BUTTON",
+                "index": 2
+            },
+            "role": "",
+            "aria-label": "出发地 上海, 中国 (PVG-浦东国际机场), 上海, 中国 (PVG-浦东国际机场)",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733407470955,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.1203703703703704,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 951,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "121"
+} 
+
+
+{
+    "role": "button",
+    "name": "出发地 上海, 中国 (PVG-浦东国际机场), 上海, 中国 (PVG-浦东国际机场)",
+    "attributes": {
+        "aria-label": "出发地 上海, 中国 (PVG-浦东国际机场), 上海, 中国 (PVG-浦东国际机场)",
+        "data-stid": "origin_select-menu-trigger",
+        "aria-expanded": "false",
+        "class": "uitk-fake-input uitk-form-field-trigger uitk-field-fake-input uitk-field-fake-input-hasicon",
+        "type": "button",
+        "data-imean-axt-id": "121",
+        "html_tag": "button"
+    },
+    "clientHeight": 46,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 290,
+    "scrollHeight": 46,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 290,
+    "offsetHeight": 48,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 292,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: 0
+Axtree Name: 17 个直飞航班最低 $418
+
+----------------------------------
+
+{
+    "id": "bXm2AEV3M4u5-38yy63jX",
+    "img": "https://data.imean.tech/uploads/1733407558882-9-aeo.png",
+    "host": "www.expedia.com",
+    "href": "https://www.expedia.com/Flights-Search?flight-type=on&mode=search&trip=roundtrip&leg1=from:%E4%B8%8A%E6%B5%B7,%20%E4%B8%AD%E5%9B%BD%20(PVG-%E6%B5%A6%E4%B8%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA),to:%E4%B8%9C%E4%BA%AC,%20%E6%97%A5%E6%9C%AC%20(NRT-%E6%88%90%E7%94%B0%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA),departure:12/19/2024TANYT,fromType:AIRPORT,toType:AIRPORT&leg2=from:%E4%B8%9C%E4%BA%AC,%20%E6%97%A5%E6%9C%AC%20(NRT-%E6%88%90%E7%94%B0%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA),to:%E4%B8%8A%E6%B5%B7,%20%E4%B8%AD%E5%9B%BD%20(PVG-%E6%B5%A6%E4%B8%9C%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA),departure:12/26/2024TANYT,fromType:AIRPORT,toType:AIRPORT&options=cabinclass:economy&fromDate=12/19/2024&toDate=12/26/2024&d1=2024-12-19&d2=2024-12-26&passengers=children:1[8],adults:2,infantinlap:N",
+    "html": "https://data.imean.tech/uploads/1733407556391-a6GgO.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>fieldset>form>div>div>div>fieldset>div>div>div>input",
+    "rect": {
+        "x": 129.5,
+        "y": 326,
+        "top": 326,
+        "left": 129.5,
+        "right": 147.5,
+        "width": 18,
+        "bottom": 344,
+        "height": 18
+    },
+    "type": "click",
+    "model": "guide",
+    "tabId": 2077794129,
+    "title": "点击 0",
+    "value": "0",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1733407561928-IqzWm.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 144,
+    "clientY": 330,
+    "favicon": "",
+    "screenX": 588,
+    "screenY": 503,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#NUM_OF_STOPS-0-uys ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "PVG 飞往 NRT 的航班",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "17 个直飞航班最低 $418",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1733407509844,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.275462962962963,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "225"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "17 个直飞航班最低 $418",
+    "attributes": {
+        "type": "checkbox",
+        "name": "NUM_OF_STOPS",
+        "id": "NUM_OF_STOPS-0-uys",
+        "class": "uitk-layout-flex-item uitk-layout-flex-item-flex-shrink-0",
+        "aria-label": "17 个直飞航班最低 $418",
+        "value": "0",
+        "data-imean-axt-id": "225",
+        "html_tag": "input"
+    },
+    "clientHeight": 18,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 18,
+    "scrollHeight": 18,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 18,
+    "offsetHeight": 18,
+    "offsetLeft": 8,
+    "offsetTop": 8,
+    "offsetWidth": 18,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Beach Haven, New Jersey, United States of America
+Axtree Name: Beachwood, Ohio, United States of America
+
+----------------------------------
+
+{
+    "id": "B4wsGQdrSekn9IXYZwyak",
+    "img": "https://data.imean.tech/uploads/1734957291609-CT6Mc.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/",
+    "html": "https://data.imean.tech/uploads/1734957291462-YdVSS.html",
+    "mask": false,
+    "path": "body>div>ul>li",
+    "rect": {
+        "x": 251.5,
+        "y": 371,
+        "top": 371,
+        "left": 251.5,
+        "right": 720.84375,
+        "width": 469.34375,
+        "bottom": 395,
+        "height": 24
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 459,
+    "pageY": 380,
+    "tabId": 2077796549,
+    "title": "点击 Beach Haven, New Jersey, United States of America",
+    "value": "Beach Haven, New Jersey, United States of America",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734957292732-tcB8C.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 459,
+    "clientY": 380,
+    "favicon": "https://data.imean.tech/uploads/1734953456909-nfJCY.ico",
+    "offsetX": 459,
+    "offsetY": 380,
+    "screenX": 903,
+    "screenY": 553,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#li20_34_4614-1 ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "LI",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734957287791,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1809129901960784,
+        "y": -0.3865740740740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "478"
+} 
+
+
+{
+    "role": "listitem",
+    "name": "Beachwood, Ohio, United States of America",
+    "attributes": {
+        "id": "li20_34_4614-0",
+        "style": "padding: 0px 3px; white-space: nowrap; background-color: rgb(255, 255, 255); color: rgb(105, 105, 105);",
+        "title": "Beachwood, Ohio, United States of America",
+        "citycode": "6248",
+        "data-imean-axt-id": "478",
+        "html_tag": "li"
+    },
+    "clientHeight": 24,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 469,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 469,
+    "offsetHeight": 24,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 469,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Quarterly Filing
+Axtree Name: Tune in 1 p.m. EST
+
+----------------------------------
+
+{
+    "id": "5beB6hF5iu_GvcTWqz-DK",
+    "img": "https://data.imean.tech/uploads/1735219428639-VNEWO.png",
+    "host": "news.alaskaair.com",
+    "href": "https://news.alaskaair.com/investor-relations/?utm_source=LegacyInvestorURL",
+    "html": "https://data.imean.tech/uploads/1735219428629-k98-v.html",
+    "mask": false,
+    "path": "body>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>p>a",
+    "rect": {
+        "x": 963.8125,
+        "y": 439.9375,
+        "top": 439.9375,
+        "left": 963.8125,
+        "right": 1122.375,
+        "width": 158.5625,
+        "bottom": 469.9375,
+        "height": 30
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 1065,
+    "pageY": 3337,
+    "tabId": 2077799388,
+    "title": "点击 Quarterly Filing",
+    "value": "Quarterly Filing",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735219431669-Rvb0W.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 1065,
+    "clientY": 453,
+    "favicon": "https://data.imean.tech/uploads/1735219434887-CF99g.png",
+    "offsetX": 101.1875,
+    "offsetY": 14.0625,
+    "screenX": 1509,
+    "screenY": 626,
+    "scrollX": 0,
+    "scrollY": 2884,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".et_pb_with_border.et_pb_module.et_pb_text.et_pb_text_75.et_clickable.et_pb_text_align_left.et_pb_bg_layout_light >.et_pb_text_inner >p:nth-child(1)>.nopdf ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Investor Relations - Alaska Airlines News",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735219417652,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.9609156162464986,
+        "y": -0.5530960648148148,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "emd7vdq02xkwshdg9yi7hnuvoe6ft5-1735219392636"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "202"
+} 
+
+
+{
+    "role": "link",
+    "name": "Tune in 1 p.m. EST",
+    "attributes": {
+        "class": "nopdf",
+        "href": "https://edge.media-server.com/mmc/p/sk672c58/",
+        "target": "_blank",
+        "rel": "noopener",
+        "data-imean-axt-id": "202",
+        "html_tag": "a"
+    },
+    "clientHeight": 0,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 0,
+    "scrollHeight": 0,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 0,
+    "offsetHeight": 30,
+    "offsetLeft": 0,
+    "offsetTop": 1,
+    "offsetWidth": 184,
+    "children": [
+        {
+            "role": "generic",
+            "name": "Tune in 1 p.m. EST",
+            "attributes": {
+                "style": "color: #ffffff;",
+                "data-imean-axt-id": "203",
+                "html_tag": "span"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 20,
+            "offsetLeft": 0,
+            "offsetTop": 1,
+            "offsetWidth": 184,
+            "children": [
+                {
+                    "role": "img",
+                    "name": "",
+                    "attributes": {
+                        "decoding": "async",
+                        "src": "/wp-content/themes/newsroom/assets/images/external-link-blue.svg",
+                        "data-imean-axt-id": "204",
+                        "html_tag": "img"
+                    },
+                    "clientHeight": 16,
+                    "clientLeft": 0,
+                    "clientTop": 0,
+                    "clientWidth": 16,
+                    "scrollHeight": 16,
+                    "scrollLeft": 0,
+                    "scrollTop": 0,
+                    "scrollWidth": 16,
+                    "offsetHeight": 16,
+                    "offsetLeft": 168,
+                    "offsetTop": 0,
+                    "offsetWidth": 16,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: electronic bag tags
+Axtree Name: Search
+
+----------------------------------
+
+{
+    "id": "SoQGN-6vJxqdOIp_y5xmm",
+    "img": "https://data.imean.tech/uploads/1735216781990-YxVKj.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/",
+    "html": "https://data.imean.tech/uploads/1735216781897-W6Jd_.html",
+    "mask": false,
+    "path": "body>div>div>div>div>ul>li>div>form>input",
+    "type": "paste",
+    "model": "guide",
+    "tabId": 2077799141,
+    "title": "粘贴 electronic bag tags",
+    "value": "electronic bag tags",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735216784897-iCnq1.json",
+    "favicon": "https://data.imean.tech/uploads/1735216653186-gEDZy.ico",
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#txtSearch ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "Search",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735216770844,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "61"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Search",
+    "attributes": {
+        "type": "text",
+        "id": "txtSearch",
+        "class": "search-input st-default-search-input focus-visible",
+        "title": "Search-box",
+        "placeholder": "Search",
+        "aria-label": "Search",
+        "autocomplete": "off",
+        "autocorrect": "off",
+        "autocapitalize": "off",
+        "data-imean-axt-id": "61",
+        "data-focus-visible-added": "",
+        "html_tag": "input"
+    },
+    "clientHeight": 38,
+    "clientLeft": 1,
+    "clientTop": 1,
+    "clientWidth": 183,
+    "scrollHeight": 38,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 183,
+    "offsetHeight": 40,
+    "offsetLeft": 1047,
+    "offsetTop": 10,
+    "offsetWidth": 185,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Los Angeles, CA, United States of America (LAX-Los Angeles Intl.)
+Axtree Name: Los Angeles (and vicinity), California, United States of America
+
+----------------------------------
+
+{
+    "id": "38tqItosZohgwftwmtcZp",
+    "img": "https://data.imean.tech/uploads/1734957550043-qxGQP.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#hotels",
+    "html": "https://data.imean.tech/uploads/1734957549872-rKCTN.html",
+    "mask": false,
+    "path": "body>div>ul>li",
+    "rect": {
+        "x": 251.5,
+        "y": 371,
+        "top": 371,
+        "left": 251.5,
+        "right": 775.828125,
+        "width": 524.328125,
+        "bottom": 395,
+        "height": 24
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 441,
+    "pageY": 391,
+    "tabId": 2077796842,
+    "title": "点击 Los Angeles, CA, United States of America (LAX-Los Angeles Intl.)",
+    "value": "Los Angeles, CA, United States of America (LAX-Los Angeles Intl.)",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734957551230-DqGxC.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 441,
+    "clientY": 391,
+    "favicon": "https://data.imean.tech/uploads/1734953456909-nfJCY.ico",
+    "offsetX": 441,
+    "offsetY": 391,
+    "screenX": 885,
+    "screenY": 564,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#li20_39_3390-1 ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "LI",
+                "index": 1
+            },
+            "role": "",
+            "aria-label": "",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734957546112,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.2194174544817927,
+        "y": -0.3865740740740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "478"
+} 
+
+
+{
+    "role": "listitem",
+    "name": "Los Angeles (and vicinity), California, United States of America",
+    "attributes": {
+        "id": "li20_39_3390-0",
+        "style": "padding: 0px 3px; white-space: nowrap; background-color: rgb(255, 255, 255); color: rgb(105, 105, 105);",
+        "title": "Los Angeles (and vicinity), California, United States of America",
+        "citycode": "178280",
+        "class": "selected_li",
+        "data-imean-axt-id": "478",
+        "html_tag": "li"
+    },
+    "clientHeight": 24,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 524,
+    "scrollHeight": 24,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 524,
+    "offsetHeight": 24,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 524,
+    "children": [
+        {
+            "role": "generic",
+            "name": "",
+            "attributes": {
+                "data-imean-axt-id": "479",
+                "html_tag": "b"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 15,
+            "offsetLeft": 3,
+            "offsetTop": 4,
+            "offsetWidth": 76,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
+Value: Hotels
+Axtree Name: Flights
+
+----------------------------------
+
+{
+    "id": "nhiGd7JJXQdUhfxeID1TJ",
+    "img": "https://data.imean.tech/uploads/1734269128898-Tf2EI.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/",
+    "html": "https://data.imean.tech/uploads/1734269128928-zRwTa.html",
+    "mask": false,
+    "path": "body>div>div>div>section>div>div>div>section>div>div>div>div>div>div>div>div>ul>li>a",
+    "rect": {
+        "x": 398.484375,
+        "y": 236.1875,
+        "top": 236.1875,
+        "left": 398.484375,
+        "right": 525.171875,
+        "width": 126.6875,
+        "bottom": 269.375,
+        "height": 33.1875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 458,
+    "pageY": 250,
+    "tabId": 2077795601,
+    "title": "点击 Hotels",
+    "value": "Hotels",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734269131416-SPDPq.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 458,
+    "clientY": 250,
+    "favicon": "https://data.imean.tech/uploads/1734267085735-ZFlgd.ico",
+    "offsetX": 59.515625,
+    "offsetY": 13.8125,
+    "screenX": 902,
+    "screenY": 423,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#tab-hotels ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "tab",
+            "aria-label": "",
+            "aria-controls": "hotels",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734269120302,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1468181022408964,
+        "y": -0.08514178240740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "farqiowzkwy37pc4l543t95p0qsla9-1734269119146"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "123"
+} 
+
+
+{
+    "role": "link",
+    "name": "Flights",
+    "attributes": {
+        "id": "tab-flights",
+        "href": "#flights",
+        "role": "tab",
+        "aria-controls": "flights",
+        "data-imean-axt-id": "123",
+        "html_tag": "a"
+    },
+    "clientHeight": 30,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 128,
+    "scrollHeight": 30,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 128,
+    "offsetHeight": 33,
+    "offsetLeft": 10,
+    "offsetTop": 0,
+    "offsetWidth": 128,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Hotels
+Axtree Name: Flights
+
+----------------------------------
+
+{
+    "id": "pDp2IrkVb7SP3F7Npy44z",
+    "img": "https://data.imean.tech/uploads/1734269149280-U2Y1y.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/#hotels",
+    "html": "https://data.imean.tech/uploads/1734269149080-77-rS.html",
+    "mask": false,
+    "path": "body>div>div>div>section>div>div>div>section>div>div>div>div>div>div>div>div>ul>li>a",
+    "rect": {
+        "x": 398.484375,
+        "y": 236.1875,
+        "top": 236.1875,
+        "left": 398.484375,
+        "right": 525.171875,
+        "width": 126.6875,
+        "bottom": 269.375,
+        "height": 33.1875
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 420,
+    "pageY": 248,
+    "tabId": 2077795601,
+    "title": "点击 Hotels",
+    "value": "Hotels",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734269150634-PYMR8.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 420,
+    "clientY": 248,
+    "favicon": "https://data.imean.tech/uploads/1734267085735-ZFlgd.ico",
+    "offsetX": 21.515625,
+    "offsetY": 11.8125,
+    "screenX": 864,
+    "screenY": 421,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#tab-hotels ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "tab",
+            "aria-label": "",
+            "aria-controls": "hotels",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734269142742,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.1468181022408964,
+        "y": -0.08514178240740741,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "129"
+} 
+
+
+{
+    "role": "link",
+    "name": "Flights",
+    "attributes": {
+        "id": "tab-flights",
+        "href": "#flights",
+        "role": "tab",
+        "aria-controls": "flights",
+        "data-imean-axt-id": "129",
+        "aria-selected": "true",
+        "html_tag": "a"
+    },
+    "clientHeight": 30,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 128,
+    "scrollHeight": 30,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 128,
+    "offsetHeight": 33,
+    "offsetLeft": 10,
+    "offsetTop": 0,
+    "offsetWidth": 128,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: FREE_CANCELLATION
+Axtree Name: Las Vegas Strip
+
+----------------------------------
+
+{
+    "id": "NGpM5SC3Qi-gBgOT-NSvi",
+    "img": "https://data.imean.tech/uploads/1734956819728-abwUG.png",
+    "host": "vacations.alaskaair.com",
+    "href": "https://vacations.alaskaair.com/Hotel-Search?MDPCID=AlaskaVacations-EN_US.DPS.AlaskaVacations.SearchWidget-Hotel_Launch.HOTEL&destination=Las%20Vegas%20%28and%20vicinity%29%2C%20Nevada%2C%20United%20States%20of%20America&startDate=2025-03-02&endDate=2025-03-09&adults=1&paandi=true&regionId=178276&isInvalidatedDate=false&theme=&userIntent=&semdtl=&useRewards=false&sort=RECOMMENDED",
+    "html": "https://data.imean.tech/uploads/1734956819860-gfKpH.html",
+    "mask": false,
+    "path": "body>div>div>div>div>main>div>div>div>div>div>div>section>div>div>div>div>section>div>form>div>div>div>fieldset>div>div>div>input",
+    "rect": {
+        "x": 129.5,
+        "y": 441.140625,
+        "top": 441.140625,
+        "left": 129.5,
+        "right": 147.5,
+        "width": 18,
+        "bottom": 459.140625,
+        "height": 18
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 131,
+    "pageY": 2712,
+    "tabId": 2077796549,
+    "title": "点击 FREE_CANCELLATION",
+    "value": "FREE_CANCELLATION",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1734956824233-ZL2y5.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 131,
+    "clientY": 446,
+    "favicon": "",
+    "offsetX": 1.5,
+    "offsetY": -2261.140625,
+    "screenX": 575,
+    "screenY": 619,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": "#paymentType-FREE_CANCELLATION-in9 ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Las Vegas (and vicinity), Nevada, United States of America Hotel Search Results",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "INPUT",
+                "index": 0
+            },
+            "role": "",
+            "aria-label": "Fully refundable property",
+            "aria-controls": "",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1734956814520,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": 0,
+        "y": -0.5419921875,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [
+        "409ctpvj7yjpqz1risg14fx9a4gt05-1734956805008"
+    ],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "159"
+} 
+
+
+{
+    "role": "textbox",
+    "name": "Las Vegas Strip",
+    "attributes": {
+        "type": "checkbox",
+        "name": "neighborhood",
+        "id": "neighborhood-800045-grn",
+        "class": "uitk-layout-flex-item uitk-layout-flex-item-flex-shrink-0",
+        "value": "800045",
+        "aria-label": "Las Vegas Strip",
+        "data-imean-axt-id": "159",
+        "html_tag": "input"
+    },
+    "clientHeight": 18,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 18,
+    "scrollHeight": 18,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 18,
+    "offsetHeight": 18,
+    "offsetLeft": 8,
+    "offsetTop": 8,
+    "offsetWidth": 18,
+    "children": []
+}
+
+
+
+ ============================== 
+
+
+
+Value: Mileage Plan
+Axtree Name: Español
+
+----------------------------------
+
+{
+    "id": "Ge8zp-3_iRjp59wW1Ouqp",
+    "img": "https://data.imean.tech/uploads/1735133913562-wQCCE.png",
+    "host": "www.alaskaair.com",
+    "href": "https://www.alaskaair.com/",
+    "html": "https://data.imean.tech/uploads/1735133912422-cNJRu.html",
+    "mask": false,
+    "path": "body>div>div>div>div>ul>li>a",
+    "rect": {
+        "x": 873.25,
+        "y": 55,
+        "top": 55,
+        "left": 873.25,
+        "right": 972.515625,
+        "width": 99.265625,
+        "bottom": 130,
+        "height": 75
+    },
+    "type": "click",
+    "model": "guide",
+    "pageX": 917,
+    "pageY": 76,
+    "tabId": 2077798282,
+    "title": "点击 Mileage Plan",
+    "value": "Mileage Plan",
+    "width": 275,
+    "axTree": "https://data.imean.tech/temp-uploads/1735133917014-JtSXO.json",
+    "detail": 0,
+    "bubbles": true,
+    "clientX": 917,
+    "clientY": 76,
+    "favicon": "https://data.imean.tech/uploads/1735127615957-73G20.ico",
+    "offsetX": 43.75,
+    "offsetY": 21,
+    "screenX": 1361,
+    "screenY": 249,
+    "scrollX": 0,
+    "scrollY": 0,
+    "trigger": true,
+    "position": "bottom",
+    "selector": ".pure-menu-list.nav-ul >li:nth-child(8)>.pure-menu-link.top-level-link.menu-small-a ",
+    "viewport": {
+        "width": 1468,
+        "height": 899
+    },
+    "hostTitle": "Alaska Airlines - Flight Deals and Cheap Airline Tickets - Book Today",
+    "movementX": 0,
+    "movementY": 0,
+    "orderList": [
+        "title",
+        "description",
+        "media"
+    ],
+    "attributes": {
+        "data": {
+            "node": {
+                "name": "A",
+                "index": 0
+            },
+            "role": "menuitem",
+            "aria-label": "",
+            "aria-controls": "menuManage",
+            "aria-haspopup": ""
+        }
+    },
+    "buttonText": "下一步",
+    "cancelable": true,
+    "buttonColor": "rgba(80, 95, 121, 1)",
+    "buttonWidth": 72,
+    "createdTime": 1735133898052,
+    "buttonRadius": 8,
+    "imgMarkValue": {
+        "x": -0.7925529586834734,
+        "y": 0,
+        "scale": 1,
+        "imgWidth": 1468,
+        "imgHeight": 899,
+        "canvasWidth": 714,
+        "canvasHeight": 432
+    },
+    "buttonPosition": "right",
+    "fullScreenshot": [],
+    "isAloneSettings": false,
+    "devicePixelRatio": 1,
+    "matchConstraints": [],
+    "automationExecType": "force",
+    "isShowGuideModelMedia": false,
+    "axtId": "15"
+} 
+
+
+{
+    "role": "link",
+    "name": "Español",
+    "attributes": {
+        "id": "navLocaleES",
+        "href": "https://alaskaair.convertlanguage.com/alaskaair/enes/",
+        "class": "pure-menu-link",
+        "lang": "es",
+        "data-omniture-tag": "nav:espanol",
+        "data-imean-axt-id": "15",
+        "html_tag": "a"
+    },
+    "clientHeight": 50,
+    "clientLeft": 0,
+    "clientTop": 0,
+    "clientWidth": 66,
+    "scrollHeight": 50,
+    "scrollLeft": 0,
+    "scrollTop": 0,
+    "scrollWidth": 66,
+    "offsetHeight": 50,
+    "offsetLeft": 0,
+    "offsetTop": 0,
+    "offsetWidth": 66,
+    "children": [
+        {
+            "role": "generic",
+            "name": "Español",
+            "attributes": {
+                "class": "focus-underline",
+                "data-imean-axt-id": "16",
+                "html_tag": "span"
+            },
+            "clientHeight": 0,
+            "clientLeft": 0,
+            "clientTop": 0,
+            "clientWidth": 0,
+            "scrollHeight": 0,
+            "scrollLeft": 0,
+            "scrollTop": 0,
+            "scrollWidth": 0,
+            "offsetHeight": 15,
+            "offsetLeft": 8,
+            "offsetTop": 17,
+            "offsetWidth": 50,
+            "children": []
+        }
+    ]
+}
+
+
+
+ ============================== 
+
+
+
